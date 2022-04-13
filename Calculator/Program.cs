@@ -10,7 +10,7 @@ string num1;
 double numA;
 bool isDouble1;
 
-
+//todo add subtract
 do
 {
     num1 = Console.ReadLine();
